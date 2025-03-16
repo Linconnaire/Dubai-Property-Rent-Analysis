@@ -35,8 +35,7 @@ The following Power BI features were incorporated and Figma was used to wirefram
 
 ### Data Collection
 
-The dataset used was source from Ejari System which is a Dubai government website for managing rental transaction. The link is [here](https://www.dubaipulse.gov.ae/data/dld-registration/dld_rent_contracts-open). 
-Over 6 million row and 28 column of rents contract data from 2014 onwards were used for this project
+The dataset used was source from [Ejari System](https://www.dubaipulse.gov.ae/data/dld-registration/dld_rent_contracts-open) which is a Dubai government website for managing rental transaction. Over 6 million row and 28 column of rents contract data from 2014 onwards were used for this project.
 
 ### Data Cleaning & Transformation  
 
